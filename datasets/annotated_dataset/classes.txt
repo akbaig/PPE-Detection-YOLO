@@ -1,0 +1,11 @@
+Helmet
+Safety_Goggles
+Vest
+Hairnet
+Earplug
+No_Helmet
+No_Safety_Goggles
+No_Vest
+No_Hairnet
+No_Earplug
+Person
